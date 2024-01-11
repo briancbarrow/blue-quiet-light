@@ -1,0 +1,23 @@
+{
+  "name": "blue-quiet-light",
+  "displayName": "Blue Quiet Light",
+  "description": "A slightly tweaked Quiet Light themez to add more blue",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "briancbarrow",
+  "repository": "https://github.com/briancbarrow/blue-quiet-light",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Quiet Light",
+        "uiTheme": "vs",
+        "path": "./themes/Blue Quiet Light-color-theme.json"
+      }
+    ]
+  }
+}
