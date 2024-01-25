@@ -2,7 +2,7 @@
   "name": "blue-quiet-light",
   "displayName": "Blue Quiet Light",
   "description": "A slightly tweaked Quiet Light themez to add more blue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
